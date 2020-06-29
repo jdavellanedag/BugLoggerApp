@@ -1,6 +1,6 @@
 ## BugLogger App
 
-This is a simple electron-react app for creating a bug logger app.
+This is a simple electron-react app for creating a bug logger utility.
 
 ### Install
 
